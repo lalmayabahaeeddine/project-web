@@ -94,11 +94,6 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 📁 Dataset
-
-This project uses mock static data to simulate users, products, and transaction activity. Data is embedded as constants in TypeScript files under `/data`.
-
----
 
 
 ## 🤝 Acknowledgements
