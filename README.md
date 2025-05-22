@@ -52,7 +52,7 @@ A responsive and interactive admin dashboard built with **React**, **TypeScript*
 ```bash
 git clone https://github.com/safak/react-admin-ui.git
 cd react-admin-ui
-git checkout completed
+
 ```
 
 ### 2. Install dependencies
